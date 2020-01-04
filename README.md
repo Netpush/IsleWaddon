@@ -1,5 +1,3 @@
-# NO LONGER UPDATED
-
 # ISLEWADDON v0.12 for [ISLEWARD](https://gitlab.com/Isleward/isleward) v0.4.2
 
 # How to install IsleWaddon
