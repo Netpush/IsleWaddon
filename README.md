@@ -1,8 +1,6 @@
 # NO LONGER UPDATED
 
-# ISLEWADDON v0.11 for [ISLEWARD](https://gitlab.com/Isleward/isleward) v0.3.3
-
-# [**ISLEWADDON DISCORD**](https://discord.gg/3P43RRb)
+# ISLEWADDON v0.12 for [ISLEWARD](https://gitlab.com/Isleward/isleward) v0.4.2
 
 # How to install IsleWaddon
   [**INSTALLATION VID**](https://www.youtube.com/watch?v=ioSmA3vHz2Q)
@@ -13,14 +11,14 @@
 
   - 1.1: [**For chrome**](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-- 2: [**Install the addon**](https://github.com/Polfy/IsleWaddon/raw/master/Loader.user.js)
+- 2: [**Install the addon**](https://github.com/Netpush/IsleWaddon/raw/master/Loader.user.js)
 
  
  **CLIENT :**
   
 [**Client download**](https://bigbadwaffle.itch.io/isleward)
 
-[**Addon download**](https://drive.google.com/file/d/1YMDlLViMHWyUTIHHZJejT7AzVOCH4jqZ/view?usp=sharing)
+[**Addon download**](https://mega.nz/#!N6xUHAyT!lQt0sCcNATi3BEhaJur4i34GyRNPNL7XcQ318MWeG6w)
 
 * Simply place the .js addon file in the following directory:
     * Windows: %APPDATA%\isleward-client\addons
@@ -33,17 +31,15 @@
 
 - Direct link to :
   - Isleward wiki
-  - IsleWaddon discord
-  - Online Map
 - Easy salvage : Salvage an item by pressing "f"
 - Bosses Timer : Add a in-game timer to know when bosses will respawn + sound
 - Quick whisper respond : Use /r to quick respond to the last whisper + sound when you receive a whisp
   - Timer/whips sound disablelable
 - Quest hide : Full fonctionnal hide function for the quest tab
 - Stats range : Show stats roll range on level 20 gear
-  - Link to my work [**here**](https://docs.google.com/spreadsheets/d/19QyBzRNMCFd3l8GwQPfDfPvwvXO_vnDtY3IHFa6kQeU/edit?usp=sharing)
-- Quality border : Add a colored border to items (Big thank to Bored !)
-- Item lock : Remove drop/salvage/destroy option on the locked items (Big thank to Bored !)
+  - Link to Polfy work [**here**](https://docs.google.com/spreadsheets/d/19QyBzRNMCFd3l8GwQPfDfPvwvXO_vnDtY3IHFa6kQeU/edit?usp=sharing)
+- Quality border : Add a colored border to items
+- Item lock : Remove drop/salvage/destroy option on the locked items takes 2 second to load
   - Hotkey : "b"
 - In-game MiniMap
 
@@ -58,18 +54,18 @@
   - Rune stats range : Show the min/max stats of a rune
   - Show how much time you have played on a char
 
-# [Version LOG](https://github.com/Polfy/IsleWaddon/blob/master/Version_Log.text)
+# [Version LOG](https://github.com/Netpush/IsleWaddon/blob/master/Version_Log.text)
 
 # CONTRIBUTOR
 
 Lot of base source code come from an old [Qndel add-on](https://github.com/qndel/IslewardAddonBundle)
 
 Thanks to : 
+  - Polfy for supporting the addon until v4 of IWD
   - Gilgamesh
-  - Bored
   - Chronus
   - Vildravn
 
 <hr>
 
-*Discord contact : Polfy#6924*
+*Discord contact : Bored#6017*
