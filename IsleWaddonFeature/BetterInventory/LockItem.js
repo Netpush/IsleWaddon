@@ -27,7 +27,6 @@ addons.register({
     },
 
     onGetPlayer: function (playerData) {
-        console.log(playerData)
         setTimeout(() => {
             document.querySelector(".grid").addEventListener("mouseup", inventoryCall.bind(this));
             document.querySelector(".btnInventory").addEventListener("click", inventoryCall.bind(this));
